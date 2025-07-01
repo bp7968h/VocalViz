@@ -5,6 +5,8 @@ Transform any audio into karaoke videos with automatic word-level highlighting.
 > [!WARNING]  
 > This is still work in progress, currently, you can generate video by supplying audio file, however the video will have default background.
 
+[![VocalViz Demo](./demo/thumbnail.png)](./demo/demo_video.mp4)
+
 ## ✨ Features
 
 - **AI-Powered Transcription** - Uses Whisper with Candle ML framework for accurate speech-to-text
